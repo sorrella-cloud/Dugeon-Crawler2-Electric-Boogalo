@@ -6,5 +6,5 @@ This is a program that lets you move through a dungeon. You’ll have to make ch
 ---
 
 ## Videos
-- [Code Demo](https://www.youtube.com/watch?v=...)
-- [Code Walkthrough](https://www.youtube.com/watch?v=...)
+- [Code Demo](https://youtu.be/zIBSvueLAh4)
+- [Code Walkthrough](https://youtu.be/EHk7cZ-WoQY)
